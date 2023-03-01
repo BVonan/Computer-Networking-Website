@@ -1,0 +1,317 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  
+    background-color: whitesmoke;
+      font-family: Monospace;
+  }
+  
+   h1 {
+      background-color: lavender;
+      border-color: lightcoral;
+      text-align: center;
+      color: lightcoral;
+      border: solid;
+  
+      
+       
+              
+  /*             padding: 25px;
+              margin: 10px; */
+  /*            text-align: center;  */
+              /*  spacing between border and content     */
+      }
+  
+  nav {
+      
+      background-color: lavender;
+      font-size: 27px;
+      font-family: Monospace;
+      font-style: oblique;
+      text-align: center;
+      border: solid;
+      border-color: lightcoral;
+      border-radius: 25px; 
+  
+  
+      
+  }
+  
+  nav a{
+      color: lightcoral;
+  /*  border: 5px solid pink;  */
+  
+  }
+  nav a:hover{
+      color: lightblue;
+  }
+  
+  .img{
+      
+      border-radius: 25px;
+  /*     -align: center; */
+      border-color: lightcoral;
+      border-style: solid;
+      justify-content: center;
+  
+  }
+  
+  #img2{
+      text-align: center;
+  }
+  
+  #img3{
+      text-align: center;
+  }
+  
+  #img4{
+      text-align: center;
+  }
+  
+  #img5{
+      text-align: center;
+  }
+  
+  
+  /*  body{
+          text-align: center;    
+          } */
+  
+  /*  h1{
+      color: lightcoral;
+    } */
+  
+  h2{
+      padding: 10px;
+      margin: 10px;
+      color: lightcoral;
+      
+  /*             background-color: lightblue;
+              border: 5px solid pink; */
+  
+  }
+  #sh{
+      margin: 0 auto;
+      padding:5px;
+      width: 850px;
+  /*     font-family: Monospace; */
+      
+  }
+  
+  #WDTD{
+      margin: 0 auto;
+      padding:5px;
+      width: 850px;
+  }
+  
+  #HTW{
+      margin: 0 auto;
+      padding:5px;
+      width: 850px;
+  }
+  
+  #DT{
+      margin: 0 auto;
+      padding:5px;
+      width: 850px;
+  }
+  
+  
+  #comal{
+      margin: 0 auto;
+      padding:25px;
+      width: 850px;
+      height:100px;
+      font-family: Serif;
+      font-size: large;
+  }
+  
+  #CNP{
+      margin: 0 auto;
+      padding:25px;
+      width: 850px;
+      height:100px;
+      font-family: Serif;
+      font-size: large;
+  }
+  
+  
+  #DSC{
+      margin: 0 auto;
+      padding:25px;
+      width: 850px;
+      height:100px;
+      font-family: Serif;
+      font-size: large;
+  }
+  
+  #L1{
+      margin: 0 auto;
+      padding:25px;
+      width: 850px;
+      height:100px;
+      font-family: Serif;
+      font-size: large;
+  }
+  
+  #WIS{
+      margin: 0 auto;
+      padding:5px;
+      width: 850px;
+  }
+  
+  #WDID{
+      margin: 0 auto;
+      padding:5px;
+      width: 850px;
+  }
+  
+  #HDIW{
+      margin: 0 auto;
+      padding:5px;
+      width: 850px;
+  }
+  
+  #LAN1{
+      margin: 0 auto;
+      padding:25px;
+      width: 850px;
+      height:100px;
+      font-family: Serif;
+      font-size: large;
+  }
+  
+  #LAN2{
+      margin: 0 auto;
+      padding:25px;
+      width: 850px;
+      height:100px;
+      font-family: Serif;
+      font-size: large;
+  }
+  
+  #LAN3{
+      margin: 0 auto;
+      padding:25px;
+      width: 850px;
+      height:100px;
+      font-family: Serif;
+      font-size: large;
+  }
+  
+  #WIS2{
+      margin: 0 auto;
+      padding:5px;
+      width: 850px;
+  }
+  
+  #WDID2{
+      margin: 0 auto;
+      padding:5px;
+      width: 850px;
+  }
+  
+  #HDIW2{
+      margin: 0 auto;
+      padding:5px;
+      width: 850px;
+  }
+  
+  
+  #MAN1{
+      margin: 0 auto;
+      padding:25px;
+      width: 850px;
+      height:100px;
+      font-family: Serif;
+      font-size: large;
+  }
+  
+  #MAN2{
+      margin: 0 auto;
+      padding:25px;
+      width: 850px;
+      height:100px;
+      font-family: Serif;
+      font-size: large;
+  }
+  
+  #MAN3{
+      margin: 0 auto;
+      padding:25px;
+      width: 850px;
+      height:100px;
+      font-family: Serif;
+      font-size: large;
+  }
+  
+  #MAN4{
+      margin: 0 auto;
+      padding:25px;
+      width: 850px;
+      height:100px;
+      font-family: Serif;
+      font-size: large;
+  }
+  
+  #WIS2{
+      margin: 0 auto;
+      padding:5px;
+      width: 850px;
+  }
+  
+  #WDID2{
+      margin: 0 auto;
+      padding:5px;
+      width: 850px;
+  }
+  
+  #HDIW2{
+      margin: 0 auto;
+      padding:5px;
+      width: 850px;
+  }
+  
+  
+  #WAN1{
+      margin: 0 auto;
+      padding:25px;
+      width: 850px;
+      height:100px;
+      font-family: Serif;
+      font-size: large;
+  }
+  
+  #WAN2{
+      margin: 0 auto;
+      padding:25px;
+      width: 850px;
+      height:100px;
+      font-family: Serif;
+      font-size: large;
+  }
+  
+  #WAN3{
+      padding:25px;
+      margin: 0 auto;
+      width: 850px;
+      height:100px;
+      font-family: Serif;
+      font-size: large;
+  }
+  
+  #OT{
+      float:left;
+  }
+  
+  
+  
+   span {
+              font-size: 1em;
+              color: pink;
+          }
+  
+   span:hover {
+           font-size: 1.5em;
+          color: lightblue;
+               }
